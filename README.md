@@ -1,0 +1,1 @@
+Using Python and PyTorch to build a neural network to classify handwritten digits from the MNIST dataset. PyTorch is used to define and train a model to recognize patterns in 28x28 pixel images of digits (0-9). The model is trained to predict the correct digit based on input images.
